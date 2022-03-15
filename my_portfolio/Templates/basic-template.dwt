@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../assets/styles.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="https://use.typekit.net/zcp8ukt.css">
+	<link rel="stylesheet" href="https://use.typekit.net/zcp8ukt.css">
+	<link rel="stylesheet" href="https://use.typekit.net/zcp8ukt.css">
+	<!-- TemplateBeginEditable name="head" -->
+	<style type="text/css">
+
+    </style>
+	
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div id="container">
+  <header></header>
+  <nav>
+	<ul>  
+		<li><a href="about.html">About</a></li>
+      	<li><a href="blog.html">Blog</a></li>
+      	<li><a href="gallery.html">Gallery</a></li>
+      	<li><a href="contact.html">Contact</a></li>
+	  </ul>
+	</nav>
+  <aside><h3>I'm a woman, a student, student council member, babysitter, and lifeguard.</h3>
+		<h3>Join me as I examine my life through all of my various lenses.</h3>
+		<h3>by Madisyn Gavillan</h3></aside>
+  <!-- TemplateBeginEditable name="main-content" -->main-content
+  <main>
+    <h1>Page Title</h1>
+</main>
+	<!-- TemplateEndEditable -->
+  <footer>Content for New footer Tag Goes Here</footer>
+</div>
+</body>
+</html>
